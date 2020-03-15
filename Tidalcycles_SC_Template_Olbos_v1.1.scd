@@ -8,7 +8,7 @@ s.options.numBuffers = pow(2, 17); //allocates enough buffers
 	//~dirt.loadSoundFile ("/Users/riccardo/Desktop/Live Coding/Tidal Samples/*");
 //~dirt.start;
 //};
-SuperDirt.start
+SuperDirt.start;
 );
 
 

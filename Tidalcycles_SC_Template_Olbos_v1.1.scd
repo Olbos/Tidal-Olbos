@@ -102,7 +102,7 @@ SynthDef("ringshape" ++ ~dirt.numChannels, { |out, ringshape|
 );
 
 // A tanh limiter/distortion. It has a single parameter (tanh) that controls the gain multiplication before getting limited.
-//You can exxagerate with this value (for instance, multiplying by 1000) and it will always keep the output range to +1 maximum.
+//You can exaggerate with this value (for instance, multiplying by 1000) and it will always keep the output range to +1 maximum.
 //Anyway, due to a dramatically restricted dynamic in values >10~, it could be necessary to decrease the tidal gain function to keep the level similar to a dry condition.
 
 (

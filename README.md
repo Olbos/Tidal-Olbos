@@ -1,7 +1,8 @@
 Olbos Live Coding Environment
 
+Note: this repository is not maintained anymore and I have moved to other setups. I am keeping it here because it contains codes cited in my 2020 thesis on live coding. As soon as I will end refining my current live coding environment, I will share it in a new repo.
 
-
+-----
 
 My custom Tidalcycles bootup.
 
